@@ -1,0 +1,10 @@
+.light-theme {
+  margin-top: 16px;
+  margin-bottom: 30px;
+}
+
+.team-list-item {
+  &:last-child {
+    margin-right: 0;
+  }
+}
